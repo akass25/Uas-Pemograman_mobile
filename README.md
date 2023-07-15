@@ -16,3 +16,12 @@
 ![c2](https://github.com/akass25/Uas-Pemograman_mobile/assets/102292839/91505d95-5cf0-4940-a211-c37a150ba223)
 
 
+3. Activity_form
+
+
+![c3](https://github.com/akass25/Uas-Pemograman_mobile/assets/102292839/f0c8c543-02c1-476b-90d7-48fc8cb43264)
+
+
+4. Liat_row
+
+
