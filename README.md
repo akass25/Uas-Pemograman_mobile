@@ -22,6 +22,7 @@
 ![c3](https://github.com/akass25/Uas-Pemograman_mobile/assets/102292839/f0c8c543-02c1-476b-90d7-48fc8cb43264)
 
 
-4. Liat_row
+4. List_row
 
 
+![c4](https://github.com/akass25/Uas-Pemograman_mobile/assets/102292839/618fbcfe-bd9c-4727-88e1-2e1ff45da318)
