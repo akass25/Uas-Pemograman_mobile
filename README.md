@@ -5,4 +5,4 @@
 # kelas : TI.20.D.1
 
 1. activity
-[alt_text](https://github.com/akass25/Uas-Pemograman_mobile/blob/master/c1.png?raw=true)
+[alt text](https://github.com/akass25/Uas-Pemograman_mobile/blob/master/c1.png?raw=true)
